@@ -17,15 +17,15 @@ The code is based on simple-avsd model.
 1, Download all codes and dataset from https://github.com/idansc/simple-avsd  
 2, Replace all python files in "code" and "utils" folders with files provided in this repository  
 3, Please use command   
-      bash run.sh  
-  to run the code.  
+> bash run.sh  
+to run the code.  
   
-The run.sh script has 4 stages
+The run.sh script has 4 stages  
 
-stage 1 - preparation of dependent packages
-stage 2 - training
-stage 3 - generation of sentences on test-set
-stage 4 - evaluation of generated sentences
+stage 1 - preparation of dependent packages  
+stage 2 - training  
+stage 3 - generation of sentences on test-set  
+stage 4 - evaluation of generated sentences  
 
 ### TODOs
 
