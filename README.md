@@ -18,6 +18,7 @@ The code is based on simple-avsd model.
 2, Replace all python files in "code" and "utils" folders with files provided in this repository  
 3, Please use command   
 > bash run.sh  
+
 to run the code.  
   
 The run.sh script has 4 stages  
