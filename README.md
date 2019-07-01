@@ -33,3 +33,9 @@ stage 4 - evaluation of generated sentences
 1. Feature analysis: how different features contribute to the task? 
 
 2. Feature fusion: how to integrate features from different modalities?
+
+### How to find papers?
+
+1. got to http://openaccess.thecvf.com/menu.py, we can find recent papers in ECCV, CVPR, ICCV. Then, search key words, for example visual dialog, you can find corresponding works
+
+2. similarly, you can also use google scholar
