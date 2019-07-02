@@ -1,0 +1,6 @@
+1, VQA: Visual Question Answering:
+  Paper contributions:  a new data set called VQA
+                        a baseline model for answering questions (LSTM Q+I with 54.06%)
+  Thinkings:  classifications for questions and treat them separetely
+              For our models, we may can analyze if a question is related to audio or mid frame?
+              
