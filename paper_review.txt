@@ -4,3 +4,12 @@
   Thinkings:  classifications for questions and treat them separetely
               For our models, we may can analyze if a question is related to audio or mid frame?
               
+2, Recursive Visual Attention in Visual Dialog
+  Pape contributions:   RvA algorithms to do visual dialog task on VisDial dataset.
+                        RvA helps to resolveco-reference problem in the question. (ex. The pronoun and noun referring same entity)
+                        RvA uses a infer module to decide if dialog history is needed
+                        If DH is needed, there is a att and RvA module to compute the paired attention. The modules will recusivesly go back through DH to find the noun referred by the pronoun in the question
+  Thinkings:  Same techniques can be applied to AVSAD dataset
+              In addition to finding the referred noun in dialog history, we may can do sth similar with the video?
+
+3, 
