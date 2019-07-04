@@ -12,4 +12,5 @@
   Thinkings:  Same techniques can be applied to AVSAD dataset
               In addition to finding the referred noun in dialog history, we may can do sth similar with the video?
 
-3, 
+3, Image-Question-Answer Synergistic Network for Visual Dialog
+  
