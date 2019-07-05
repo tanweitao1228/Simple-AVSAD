@@ -13,4 +13,11 @@
               In addition to finding the referred noun in dialog history, we may can do sth similar with the video?
 
 3, Image-Question-Answer Synergistic Network for Visual Dialog
-  
+  Paper contributions:  It improves performance of baseline system on dataset Visual Dialog v1.0
+                        There are two stages for the models.
+                        All candidate answers are scored in the primary stage, and some selected answers are re-scored in the
+synergistic stage.
+ 
+ 4, Two can play this Game: Visual Dialog with Discriminative Question Generation
+    http://openaccess.thecvf.com/content_cvpr_2018/papers/Jain_Two_Can_Play_CVPR_2018_paper.pdf
+    Paper contributions: 
